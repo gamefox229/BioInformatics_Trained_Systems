@@ -1,3 +1,3 @@
 import time
-if 6=6 ;
+if 6==6:
     print ("true")
