@@ -7,8 +7,8 @@ def convert_file_to_23():
 		#read the file
 		df = pd.read_csv(input_filepath, sep=r's+'')
 	except FileNotFoundError:
-		print(\n["Error"])
+		print("file not found")
 		return
 	except Exception as e:
-        print(f"\n[Error] An error occurred while reading the file: {e}")
+        print(f"\n[Error]")
         return
