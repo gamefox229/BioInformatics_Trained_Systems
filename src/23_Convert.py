@@ -12,3 +12,8 @@ def convert_file_to_23():
 	except Exception as e:
         print(f"\n[Error]")
         return
+	#23andMeHeaders
+	output_lines = [
+		"# 23andMe-compatible format generated from raw data file",
+		"# rsid\tchromosome\tposition\tgenotype"
+		]
