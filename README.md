@@ -3,7 +3,6 @@ B.I.T.S is a machine learning project made by  <a href="https://github.com/Adog-
 
 **<ins>Checklist of Features to Add</ins>**
 - DNA Feature Extraction
-- Specific Disease for Benchmark Testing
 - ML Model for Prediction
 - Written Evaluation in form of Formal Paper
 
