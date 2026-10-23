@@ -9,9 +9,11 @@ B.I.T.S is a machine learning project made by  <a href="https://github.com/Adog-
 **<ins>Sources</ins>**
 
 Parkinsons Weights:
+
 Paul, K. C., Schulz, J., Bronstein, J. M., Lill, C. M., & Ritz, B. R. (2018). Association of polygenic risk score with cognitive decline and motor progression in Parkinson disease. JAMA Neurology, 75(3), 360–366. https://doi.org/10.1001/jamaneurol.2017.4206
 
 Articles for Research:
+
 S, P., Gaspar, N., Shanmuganathan, V., P, S., Alkhayyat, A., & M, K. (2024).
 Classifying promoters by interpreting the hidden information of DNA sequences for
 disease prediction in clinical laboratories using Gaussian decision boundary
