@@ -68,8 +68,8 @@ def main():
         print(f"[Error] Weight file not found at: {weights_path}")
         return
 
-    generate_patient_cohort(weights_path, data_dir / "parkinsons_cases", cohort_type="case", num_files=10)
-    generate_patient_cohort(weights_path, data_dir / "healthy_controls", cohort_type="control", num_files=10)
+    generate_patient_cohort(weights_path, data_dir / "parkinsons_cases", cohort_type="case", num_files=100)
+    generate_patient_cohort(weights_path, data_dir / "healthy_controls", cohort_type="control", num_files=100)
 
     print("Done")
 
